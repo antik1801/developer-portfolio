@@ -119,3 +119,23 @@ main {
     font-size: 20px;
     color: #757575;
 }
+
+.what-i-do {
+    margin-top: 130px;
+}
+
+.skill-container {
+    display: flex;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.skill-description {
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+}
